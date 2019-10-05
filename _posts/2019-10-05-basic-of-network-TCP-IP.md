@@ -31,5 +31,5 @@ TCP/IP에서 중요한 개념 중 하나가 계층입니다. 계층화가 된 �
 - 링크 계층 : 네트워크에 접속하는 하드웨어적인 부분 관리
 
 # TCP/IP 통신의 흐름
-![test](_img/2019-10-05-basic-of-network-TCP-IP-1.png)
+![test](/_img/2019-10-05-basic-of-network-TCP-IP-1.png)
 
