@@ -24,11 +24,11 @@ github_username:  sweetlulu486
 # linkedIn_username: gaohaoyang
 # dribbble_username:
 
-description_footer: 많은 기억보다 기록을
+description_footer: 많은 기억보다 작은 기록을
 
 # comments
 # two ways to comment, only choose one, and use your own short name
-# disqus_shortname: randi
+disqus_shortname: sweetlulu486-github
 
 # Build settings
 markdown: kramdown
