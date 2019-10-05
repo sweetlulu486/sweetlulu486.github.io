@@ -32,4 +32,4 @@ TCP/IP에서 중요한 개념 중 하나가 계층입니다. 계층화가 된 �
 
 # TCP/IP 통신의 흐름
 ![test4](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile26.uf.tistory.com%2Fimage%2F9964343B5D97FF05055E03)
-
+![test5](/img/2019-10-05-basic-of-network-TCP-IP-1.png)
