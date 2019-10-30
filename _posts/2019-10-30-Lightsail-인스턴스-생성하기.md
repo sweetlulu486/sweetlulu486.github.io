@@ -18,6 +18,8 @@ Lightsail 인스턴스 생성하기
 
 ![](/img-in-posts/Lightsail-인스턴스-생성하기-1.png)
 
+__Lightsail을 사용하여__ 라고 써있는 링크를 눌러 인스턴스를 생성한다.
+
 ## 리전 선택 및 OS선택
 
 ![](/img-in-posts/Lightsail-인스턴스-생성하기-2.png)
@@ -25,6 +27,8 @@ Lightsail 인스턴스 생성하기
 ## 가격 선택 및 인스턴스 생성
 
 ![](/img-in-posts/Lightsail-인스턴스-생성하기-3.png)
+
+Apps + OS나 OS Only를 선택할 수 있는데 내가 원하는 App이 없어서 OS Only를 통해 Ubuntu 18.03 LTS를 선택하였습니다.
 
 ## 인스턴스 접속하기
 
