@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Ubuntu에 java 설치하기"
+title:      "Ubuntu에 Java 설치하기"
 date:       2019-10-31 21:30:12
 categories: 개발환경
 tags:       개발환경 AWS
@@ -10,7 +10,7 @@ mathjax:    true
 * Content
 {:toc}
 
-Ubuntu java 설치하기
+Ubuntu Java 설치하기
 
 
 
@@ -29,15 +29,15 @@ sudo apt update
 sudo apt install openjdk-8-jdk openjdk-8-jre
 ```
 
-![](/img-in-posts/Ubuntu에-java-설치하기-2.png)
+![](/img-in-posts/Ubuntu에-Java-설치하기-2.png)
 
 y를 누르고 나면 설치가 진행된다.
 
-![](/img-in-posts/Ubuntu에-java-설치하기-3.png)
+![](/img-in-posts/Ubuntu에-Java-설치하기-3.png)
 
 ## 자바 버전 재확인하기
 
-![](/img-in-posts/Ubuntu에-java-설치하기-4.png)
+![](/img-in-posts/Ubuntu에-Java-설치하기-4.png)
 
 설치가 되었다.
 
@@ -52,7 +52,7 @@ EOL
 sudo vi /etc/environment
 ```
 
-![](/img-in-posts/Ubuntu에-java-설치하기-5.png)
+![](/img-in-posts/Ubuntu에-Java-설치하기-5.png)
 
 ## 환경변수 테스트 하기
 
@@ -60,7 +60,7 @@ sudo vi /etc/environment
 echo $JAVA_HOME
 ```
 
-![](/img-in-posts/Ubuntu에-java-설치하기-6.png)
+![](/img-in-posts/Ubuntu에-Java-설치하기-6.png)
 
 
 ## 인용
