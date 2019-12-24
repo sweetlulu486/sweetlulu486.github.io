@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Vanilla JS 챌린지 후기"
-date:       2019-12-24 19:30:12
+date:       2019-12-24 23:59:01
 categories: 후기
 tags:       챌린지 후기
 mathjax:    true
